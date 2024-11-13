@@ -42,6 +42,15 @@ A Next.js application for managing product selection with real-time stock update
 - Tailwind CSS
 - Local Storage for persistence
 
+## UI/UX improvements
+
+- Category sidebar with product counts
+- Include sort options (name, price low-high, price high-low)
+- Show stock levels on product cards
+- Display running total with applied discounts
+- Simple confirmation modal for orders
+- Floating cart summary
+
 ## Project Structure
 
 ```
