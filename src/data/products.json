@@ -1,0 +1,184 @@
+{
+   "products": [
+    {
+      "id": "1",
+      "name": "Premium Arabic Coffee",
+      "price": 45.00,
+      "category": "Beverages",
+      "stock": 15,
+      "image": "https://picsum.photos/seed/coffee1/400/400",
+      "description": "Premium Arabica coffee beans, freshly roasted"
+    },
+    {
+      "id": "2",
+      "name": "Organic Green Tea",
+      "price": 30.00,
+      "category": "Beverages",
+      "stock": 20,
+      "image": "https://picsum.photos/seed/tea1/400/400",
+      "description": "High-quality organic green tea leaves"
+    },
+    {
+      "id": "3",
+      "name": "Dates Gift Box",
+      "price": 85.00,
+      "category": "Gifts",
+      "stock": 8,
+      "image": "https://picsum.photos/seed/dates1/400/400",
+      "description": "Premium selection of Saudi dates in elegant packaging"
+    },
+    {
+      "id": "4",
+      "name": "Traditional Oud",
+      "price": 250.00,
+      "category": "Fragrances",
+      "stock": 5,
+      "image": "https://picsum.photos/seed/oud1/400/400",
+      "description": "Authentic Arabian oud fragrance"
+    },
+    {
+      "id": "5",
+      "name": "Handwoven Carpet",
+      "price": 499.00,
+      "category": "Home Decor",
+      "stock": 3,
+      "image": "https://picsum.photos/seed/carpet1/400/400",
+      "description": "Traditional handwoven carpet with intricate patterns"
+    },
+    {
+      "id": "6",
+      "name": "Arabic Spice Set",
+      "price": 75.00,
+      "category": "Food",
+      "stock": 12,
+      "image": "https://picsum.photos/seed/spices1/400/400",
+      "description": "Collection of essential Arabic cooking spices"
+    },
+    {
+      "id": "7",
+      "name": "Ceramic Tea Set",
+      "price": 120.00,
+      "category": "Home Decor",
+      "stock": 6,
+      "image": "https://picsum.photos/seed/teaset1/400/400",
+      "description": "Traditional ceramic tea set with intricate designs"
+    },
+    {
+      "id": "8",
+      "name": "Premium Honey",
+      "price": 65.00,
+      "category": "Food",
+      "stock": 25,
+      "image": "https://picsum.photos/seed/honey1/400/400",
+      "description": "Pure natural honey from local beekeepers"
+    },
+    {
+      "id": "9",
+      "name": "Decorative Lantern",
+      "price": 95.00,
+      "category": "Home Decor",
+      "stock": 10,
+      "image": "https://picsum.photos/seed/lantern1/400/400",
+      "description": "Traditional Arabian decorative lantern"
+    },
+    {
+      "id": "10",
+      "name": "Rose Water",
+      "price": 25.00,
+      "category": "Beauty",
+      "stock": 30,
+      "image": "https://picsum.photos/seed/rosewater1/400/400",
+      "description": "Pure distilled rose water"
+    },
+    {
+      "id": "11",
+      "name": "Incense Gift Set",
+      "price": 55.00,
+      "category": "Gifts",
+      "stock": 15,
+      "image": "https://picsum.photos/seed/incense1/400/400",
+      "description": "Luxury incense gift set with burner"
+    },
+    {
+      "id": "12",
+      "name": "Arabic Calligraphy Art",
+      "price": 150.00,
+      "category": "Art",
+      "stock": 4,
+      "image": "https://picsum.photos/seed/calligraphy1/400/400",
+      "description": "Handmade Arabic calligraphy artwork"
+    },
+    {
+      "id": "13",
+      "name": "Premium Saffron",
+      "price": 180.00,
+      "category": "Food",
+      "stock": 7,
+      "image": "https://picsum.photos/seed/saffron1/400/400",
+      "description": "High-quality pure saffron threads"
+    },
+    {
+      "id": "14",
+      "name": "Wooden Chess Set",
+      "price": 135.00,
+      "category": "Games",
+      "stock": 6,
+      "image": "https://picsum.photos/seed/chess1/400/400",
+      "description": "Hand-carved wooden chess set"
+    },
+    {
+      "id": "15",
+      "name": "Arabian Perfume Oil",
+      "price": 90.00,
+      "category": "Fragrances",
+      "stock": 18,
+      "image": "https://picsum.photos/seed/perfume1/400/400",
+      "description": "Traditional Arabian perfume oil"
+    },
+    {
+      "id": "16",
+      "name": "Handmade Soap Set",
+      "price": 45.00,
+      "category": "Beauty",
+      "stock": 22,
+      "image": "https://picsum.photos/seed/soap1/400/400",
+      "description": "Natural handmade soap collection"
+    },
+    {
+      "id": "17",
+      "name": "Brass Coffee Pot",
+      "price": 110.00,
+      "category": "Home Decor",
+      "stock": 9,
+      "image": "https://picsum.photos/seed/coffeepot1/400/400",
+      "description": "Traditional brass Arabic coffee pot"
+    },
+    {
+      "id": "18",
+      "name": "Prayer Beads",
+      "price": 35.00,
+      "category": "Accessories",
+      "stock": 40,
+      "image": "https://picsum.photos/seed/beads1/400/400",
+      "description": "Handcrafted wooden prayer beads"
+    },
+    {
+      "id": "19",
+      "name": "Moroccan Pouf",
+      "price": 185.00,
+      "category": "Home Decor",
+      "stock": 5,
+      "image": "https://picsum.photos/seed/pouf1/400/400",
+      "description": "Authentic leather Moroccan pouf"
+    },
+    {
+      "id": "20",
+      "name": "Arabic Coffee Cups",
+      "price": 40.00,
+      "category": "Home Decor",
+      "stock": 16,
+      "image": "https://picsum.photos/seed/cups1/400/400",
+      "description": "Set of 6 traditional Arabic coffee cups"
+    }
+  ]
+}
